@@ -47,3 +47,7 @@ ironbci included to [PiEEG-Server software](https://github.com/pieeg-club/PiEEG-
 #### Contacts   
 https://pieeg.com/   
 pieeg@pieeg.com  
+
+#### Support
+PiEEG (Discord)[https://discord.gg/tEezqHXWp] 
+
