@@ -1,7 +1,10 @@
 # ironbci_16
 ironbci 16 EEG channels, BLE 5
 
-<img src="https://github.com/pieeg-club/ironbci_16/blob/main/images/ironbci_gif.gif" width="50%" alt="IronBCI Demo">
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github.com/pieeg-club/ironbci_16/blob/main/images/ironbci_gif.gif" width="50%" alt="IronBCI Demo">
+</div>
+
 
 ironbci included to [PiEEG-Server software](https://github.com/pieeg-club/PiEEG-server)  
 <img src="https://github.com/pieeg-club/ironbci/blob/master/Supplementary%20files/imahe_2.png" alt="general view" title="general view" width="90%" height="90%">
