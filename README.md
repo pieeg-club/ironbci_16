@@ -41,7 +41,7 @@ Software - PiEEG Server
 ```text
 [ Electrodes ] ──> [ Dual ADS1299 (ADC) ] ──> [ STM32WB (MCU) ] ──> [ BLE 5 ] ──> [ PiEEG Server ]
   (Gel / Dry)        (16-Ch Acquisition)       (Data Packaging)     (Wireless)
-
+```
 
 
 
