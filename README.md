@@ -10,6 +10,15 @@ ironbci included to [PiEEG-Server software](https://github.com/pieeg-club/PiEEG-
 <img src="https://github.com/pieeg-club/ironbci/blob/master/Supplementary%20files/imahe_2.png" alt="general view" title="general view" width="90%" height="90%">
 
 
+#### Technical Details 
+ADC - Two ADS1299 
+MCU - STM32WB
+Wireless -BLE5   
+Electrodes - Gel and Dry   
+Noise - 1.0 µVₚₚ (Peak-to-Peak Noise)  
+Software - PiEEG Server   
+
+
 #### Warnings
 >[!WARNING]
 > ironbci is not medical device. You are fully responsible for your personal decision to purchase this device and, ultimately, for its safe use. ironbci is not a medical device and has not been certified by any government regulatory agency for use with the human body. Use it at your own risk.  
