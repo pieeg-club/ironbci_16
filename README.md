@@ -49,5 +49,5 @@ https://pieeg.com/
 pieeg@pieeg.com  
 
 #### Support
-PiEEG (Discord)[https://discord.gg/tEezqHXWp] 
+PiEEG [Discord](https://discord.gg/tEezqHXWp) 
 
