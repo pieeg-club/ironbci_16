@@ -19,3 +19,6 @@ ironbci included to [PiEEG-Server software](https://github.com/pieeg-club/PiEEG-
 > Power supply - only battery 5V, please read the [liability](https://pieeg.com/liability/)
 >
 >
+#### Contacts   
+https://pieeg.com/   
+pieeg@pieeg.com  
