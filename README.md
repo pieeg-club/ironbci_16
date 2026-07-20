@@ -1,5 +1,5 @@
 # ironbci_16
-<img src="https://github.com/pieeg-club/ironbci_16/blob/main/images/ironbci.png" alt="general view" title="general view" width="90%" height="90%">
+<img src="https://github.com/pieeg-club/ironbci_16/blob/main/images/ironbci.png" alt="general view" title="general view">
 
 ironbci 16 EEG channels, BLE 5
 
