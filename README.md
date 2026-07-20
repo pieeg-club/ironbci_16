@@ -10,6 +10,12 @@ ironbci included to [PiEEG-Server software](https://github.com/pieeg-club/PiEEG-
 <img src="https://github.com/pieeg-club/ironbci/blob/master/Supplementary%20files/imahe_2.png" alt="general view" title="general view" width="90%" height="90%">
 
 
+
+ironbci included to [PiEEG-Server software](https://github.com/pieeg-club/ironbci_16/blob/main/images/ironbci.png)  
+<img src="https://github.com/pieeg-club/ironbci/blob/master/Supplementary%20files/imahe_2.png" alt="general view" title="general view" width="90%" height="90%">
+
+
+
 ## 🛠️ Technical Specifications
 
 ### Hardware Architecture
