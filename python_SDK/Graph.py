@@ -4,7 +4,7 @@ ironbci16_fast.py  -- low-latency Windows version
 =================================================
 IRONBCI_16 (STM32WB55 + 2x ADS1299) BLE reader + FAST real-time plot.
 
-Why this version is fast / has no growing delay:
+ this version is fast / has no growing delay:
   * pyqtgraph instead of matplotlib  -> GUI redraw of all 16 channels
     takes a few milliseconds instead of ~1 second.
   * Latency cap: if the plot ever falls behind, samples older than
