@@ -1,4 +1,5 @@
 # ironbci_16
+Low-cost Wearable BLE 16 channels for dry and wet electrodes  
 <img src="https://github.com/pieeg-club/ironbci_16/blob/main/images/ironbci.png" alt="general view" title="general view">
 
 ironbci 16 EEG channels, BLE 5
